@@ -1,0 +1,47 @@
+    
+Return-Path: <bounces@suspicious-mailer.net>
+Received: from mail-server.suspicious-mailer.net (mail-server.suspicious-mailer.net [192.0.2.10])
+    by mail.victim.com (Postfix) with ESMTP id 8D5F64003C
+    for <user@example.com>; Tue, 11 Nov 2024 15:01:14 -0400 (EDT)
+From: "IT Support" <support@microsoft-customer-service.org>
+To: <user@example.com>
+Subject: Action Required: Your Account Password Will Expire in 24 Hours
+Date: Tue, 11 Nov 2024 19:01:05 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="phish-boundary-12345"
+
+--phish-boundary-12345
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <body>
+    <p>Dear user,</p>
+    <p>Our records indicate that your network password will expire in 24 hours. To maintain access to your account, you must reset your password immediately.</p>
+    <p>Please click the following link to update your credentials:</p>
+    <p><a href="http://10.10.40.50/credential-harvester/login.php">https://login.microsoftonline.com/common/oauth2/authorize?client_id=...</a></p>
+    <p>Failure to do so will result in a temporary account lockout.</p>
+    <p>Thank you,<br></p>
+  </body>
+</html>
+
+--phish-boundary-12345
+Content-Type: text/plain; name="password-policy.txt"
+Content-Disposition: attachment; filename="password-policy.txt"
+Content-Transfer-Encoding: base64
+
+zpHOvc+Ezq/OuM61z4TOsSDOvM61IM6xz4XPhM+MIM+Azr/PhSDOuM61z4nP
+gc61zq8gzrcgz4DOu861zrnOv8+IzrfPhs6vzrEsIM+Ezr8gTG9yZW0gSXBzdW0gzrT
+Otc69IM61zq/Ovc6xzrkgzrHPgM67zqwgzq3Ovc6xIM+Ez4XPh86xzq/OvyD
+Ous61zq/OvM61zr3Ovy4gzp/OuSDPgc6vzrbOtc+CIM+Ezr/PhSDOss+Bzq/Pg866zr/Ovc+EzrHOu
+SDPg861IM6tzr3OsSDOus61zq/OvM61zr3OvyDOm86xz4TOuc69zrnOus
+6uz4IgzrvOv86zzr/PhM61z4fOvc6vzrHPgiDPhM6/z4UgNDUgz4AuzqcuLCDOkc69z4TO
+r864zrXPhM6xIM68zrUgzrHPhc+Ez4wgz4DOv8+FIM64zrXPic+BzrXOryDOtyDPgM67zrXOuc6/z4jOt8
++Gzq/OsSwgz4TOvyBMb3JlbSBJcHN1bSDOtM61zr0gzrXOr869zrHOuSDOs
+c+AzrvOrCDOrc69zrEgz4TPhc+HzrHOr86/IM66zrXOr868zrXOvc6/LiDOn865IM+Bzq/Ots61z4Ig
+z4TOv8+FIM6yz4HOr8+DzrrOv869z4TOsc65IM+DzrUgzq3Ovc6xIM66zrXOr868zrX
+Ovc6/IM6bzrHPhM65zr3Ouc66zq7PgiDOu86/zrPOv8+EzrXPh869zq/Osc+CIM+Ezr/PhSA0NSDPgC7Opy4sIA==
+
+--phish-boundary-12345--
+
+  

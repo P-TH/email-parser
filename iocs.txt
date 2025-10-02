@@ -1,0 +1,3 @@
+ab9d944b6a46f22dc590a523e51cc85cdd17a77a0592b24fec10ae16f9f4bc24
+http://10.10.40.50/credential-harvester/login.php
+https://login.microsoftonline.com/common/oauth2/authorize?client_id=...
